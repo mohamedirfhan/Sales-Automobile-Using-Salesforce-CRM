@@ -1,4 +1,3 @@
-# Sales-Automobile-Using-Salesforce-CRM
 # Sales Automobile Using Salesforce CRM
 
 This project demonstrates how to manage sales for an automobile dealership using Salesforce CRM. It leverages various Salesforce features to streamline the sales process and enhance customer relationship management.
